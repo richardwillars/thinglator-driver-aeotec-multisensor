@@ -13,6 +13,7 @@ An driver that allows Thinglator to talk to Aeotec multisensors (gen 6)
 Navigate to the root of your Thinglator installation and run:
 
 > yarn add thinglator-driver-aeotec-multisensor
+
 > yarn dev
 
 # Installation for development
@@ -20,6 +21,7 @@ Navigate to the root of your Thinglator installation and run:
 Navigate to the root of the thinglator-driver-aeotec-multisensor project and run:
 
 > yarn install
+
 > yarn link
 
 Navigate to the root of your Thinglator installation and run:
